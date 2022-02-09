@@ -1,7 +1,16 @@
 - 👋 Hi, I’m Facundo Zalazar, welcome to my Github page.
-Here i will upload projects of different sources, to show you a preview of my works and knowledges.
 
-- 👀 I’m interested in new challenges, i love coding so i can switch easily from one language to another. Love clean coding and flexibility to changes.
+	Here i will upload projects of different sources, to show you a preview of my works and knowledges. 
+	
+	From very early college projects with FPGAs, ARM Cortex processors to some challenges or personal projects. 
+	
+	Right now i´m focused on that, write small projects in my free time.
+
+- 👀 I’m interested in new challenges, i really enjoy coding so i can switch easily from one language to another. 
+	
+	Love clean coding and flexibility to changes. 
+	
+	And remember: More coffee = More lines of code! ☕
 
 - 🌱 I’m currently learning Python frameworks, Web pages testing (manual or automated), and React/Javascript coding.
 
