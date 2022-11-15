@@ -12,7 +12,7 @@
 	
 	And remember: More coffee = More lines of code! ☕
 
-- 🌱 I’m currently learning Python frameworks, Web pages testing (manual or automated), and React/Javascript coding.
+- 🌱 I’m currently learning Java and Selenium for web testing. Also with Cucumber and Cypress.
 
 - 📫 How to reach me: 
 
