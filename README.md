@@ -16,8 +16,6 @@
 
 - 📫 How to reach me: 
 
-  My linkedin profile: https://www.linkedin.com/in/fzalazar/
-
   My email : fz.utn@live.com
 
 <!---
